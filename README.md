@@ -21,3 +21,5 @@ A local enterprise security lab built to simulate threat detection, log ingestio
 - **SIEM Validation:** Confirmed live rule matching, severity scoring, and alert generation on the Wazuh Dashboard.
 
 ## 📸 Evidence & Screenshots
+<img width="1710" height="1107" alt="Screenshot 2026-10-25 at 7 30 55 PM" src="https://github.com/user-attachments/assets/f4d00b3a-c2ec-4ca1-a52d-a77bb3f11e9d" /> 
+<img width="1710" height="1107" alt="Screenshot 2026-10-25 at 7 41 06 PM" src="https://github.com/user-attachments/assets/7e59375d-028f-403c-86a8-83e7f6bca3f4" />
